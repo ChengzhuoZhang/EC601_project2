@@ -29,6 +29,10 @@ The code then prints the bot score and determines whether the user is a bot or n
 
 When you run this code, it will send a request to the Botometer API to analyze the specified Twitter user and print the resulting bot score and a message indicating whether the user is likely a bot or not.
 
+**The output of the code**
+<img width="530" alt="image" src="https://user-images.githubusercontent.com/114030984/208933059-8a84af05-7e96-4ab1-a16c-2ba900e0881e.png">
+
+
 ## **Phase 1(b):   Google NLP**
 
 ### 1b: Sentiment Analysis Using Google NLP
