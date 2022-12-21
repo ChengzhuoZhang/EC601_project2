@@ -10,6 +10,9 @@ The code then calls the **`user_timeline`** method of the **`API`** object, pass
 
 Finally, the code loops through the list of **`tweet`** objects and prints the text of each tweet.
 
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/114030984/208930866-e396b8b9-5dac-43fc-8e55-ed49ffef7288.png">
+
+
 ### 1a-2: Botometer
 
 This code imports the botometer library and defines a set of API keys that are required to use the library. It then creates a **`Botometer`** object and passes in the API keys as arguments.
