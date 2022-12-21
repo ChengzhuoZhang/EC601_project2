@@ -76,5 +76,6 @@ The code is basic an integration of 1a-1 and 1b. When you run this code, it will
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/114030984/208935518-0fa5ec07-51fe-41e8-8357-af0c130ec75f.png">
 
 **The output of the code**
+
 <img width="811" alt="image" src="https://user-images.githubusercontent.com/114030984/208935613-7f705aef-b32f-40aa-9982-0e37b07637c0.png">
 
