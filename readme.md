@@ -48,6 +48,11 @@ In order to use twitter API to analyze the sentiment of a given text, this is wh
 
 The code 1b will print the sentiment score and magnitude of the text. The sentiment score is a value between -1 and 1, with negative values indicating a negative sentiment and positive values indicating a positive sentiment. The magnitude is a value that indicates the strength of the sentiment, with higher values indicating a stronger sentiment.
 
+**The output of the code**
+
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/114030984/208934265-3a010cdf-6cf8-4e9d-a3b1-2300ea9ad64b.png">
+
+
 ## **Phase 2:  Build your own social media analyzer**
 
 ### MVP
