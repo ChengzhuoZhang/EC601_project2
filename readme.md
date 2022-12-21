@@ -9,8 +9,12 @@ The code imports the tweepy library and defines a set of API keys and secrets th
 The code then calls the **`user_timeline`** method of the **`API`** object, passing in the username and the number of tweets to retrieve as arguments. This method sends a request to the Twitter API to retrieve the specified number of tweets from the user's timeline, and the response from the API includes a list of **`tweet`** objects, each representing a single tweet.
 
 Finally, the code loops through the list of **`tweet`** objects and prints the text of each tweet.
+**The original tweet**
 
 <img width="612" alt="image" src="https://user-images.githubusercontent.com/114030984/208930866-e396b8b9-5dac-43fc-8e55-ed49ffef7288.png">
+
+**The output of the code**
+<img width="1241" alt="image" src="https://user-images.githubusercontent.com/114030984/208932163-40ded3b5-2687-4422-ac3a-5766022c0eea.png">
 
 
 ### 1a-2: Botometer
